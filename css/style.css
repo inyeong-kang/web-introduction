@@ -21,7 +21,13 @@ img{
     height: 150px;
 }
 
-label{
+#name, #movie{
+    color: blue;
     margin-top: 5px;
+}
+
+label{
+    margin-top: 5px; 
+    margin-right: 10px;
 }
 
