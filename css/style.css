@@ -8,7 +8,7 @@ div{
     padding-left: 10px;
 }
 
-li{
+li, .guest-book{
     font-family: "Jua";
 }
 
@@ -19,5 +19,9 @@ li{
 img{
     width: 100px;
     height: 150px;
+}
+
+label{
+    margin-top: 5px;
 }
 
