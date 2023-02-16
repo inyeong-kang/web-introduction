@@ -1,8 +1,23 @@
-.self-intro h2{
+div{
+    margin-left: 10px;
+}
+
+.heading2{
     font-family: "Do Hyeon";
     background-color: antiquewhite;
+    padding-left: 10px;
 }
-.self-intro li{
+
+li{
     font-family: "Jua";
+}
+
+.table{
+    font-family: "Jua";   
+}
+
+img{
+    width: 100px;
+    height: 150px;
 }
 
